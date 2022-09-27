@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "VR Pack VReady DevSoft",
+            "price": 700,
+            "image": "https://www.robotlab.com/hubfs/VR%20Research%20and%20Developer%20-TOP-Image.png?auto=compress&amp;h=305",
+            "category": "vrpack"
+        },
+        {
+            "id": 2,
+            "title": "VReady Pack Oculus",
+            "price": 945,
+            "image": "https://i5.walmartimages.com/asr/abc09180-cac5-45e2-93c4-d440cde1d2b3.1bf9186cead3885157cca01cbb9eb024.jpeg?auto=compress&amp;h=305",
+            "category": "oculus"
+        },
+        {
+            "id": 3,
+            "title": "VReady Pack PlayStation",
+            "price": 690,
+            "image": "https://www.manua.ls/thumbs/products/l/1095290-sony-playstation-vr.jpg?auto=compress&amp;h=305",
+            "category": "ps"
+        },
+        {
+            "id": 4,
+            "title": "VReady Pack HTC",
+            "price": 990,
+            "image": "https://static.turbosquid.com/Preview/001153/671/RO/3D-htc-virtual-reality-vive_600.jpg?auto=compress&amp;h=305",
+            "category": "htc"
+        },
+        {
+            "id": 5,
+            "title": "VReady Pack Valve",
+            "price": 1050,
+            "image": "https://www.tuexperto.com/wp-content/uploads/2017/08/lanzamiento_mochila_HP_Z_VR_01.jpg?auto=compress&amp;h=305",
+            "category": "valve"
+
+        },
+        {
+            "id": 6,
+            "title": "VReady Pack HP",
+            "price": 850,
+            "image": "https://www.robotlab.com/hubfs/VR%20Research%20and%20Developer%20-TOP-Image.png?auto=compress&amp;h=305",
+            "category": "hp"
+
+        },
+        {
+            "id": 7,
+            "title": "VR Pack VReady Singular One",
+            "price": 600,
+            "image": "https://www.tuexperto.com/wp-content/uploads/2017/08/lanzamiento_mochila_HP_Z_VR_01.jpg?auto=compress&amp;h=305",
+            "category": "vrpack"
+        },
+        {
+            "id": 8,
+            "title": "Valve Index",
+            "price": 350,
+            "image": "https://m.media-amazon.com/images/I/61QiWPgRS0S._AC_SS450_.jpg?auto=compress&amp;h=305",
+            "category": "valve"
+        },
+        {
+            "id": 9,
+            "title": "HP Reverb",
+            "price": 799,
+            "image": "https://m.media-amazon.com/images/I/71tjph7xTVL._SX342_.jpg?auto=compress&amp;h=305",
+            "category": "hp"
+        },
+        {
+            "id": 10,
+            "title": "Valve Index Dual",
+            "price": 999,
+            "image": "https://m.media-amazon.com/images/I/71tjph7xTVL._SX342_.jpg?auto=compress&amp;h=305",
+            "category": "valve"
+        },
+        {
+            "id": 11,
+            "title": "Oculus Quest",
+            "price": 650,
+            "image": "https://res-4.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1661469760/mcb3plajqjlcojmn6mq9.png?auto=compress&amp;h=305",
+            "category": "oculus"
+        },
+        {
+            "id": 12,
+            "title": "Oculus Quest 2",
+            "price": 890,
+            "image": "https://laaca.com.uy/wp-content/uploads/2022/04/Lentes-Realidad-Virtual-Oculus-Quest-2-128Gb.jpg?auto=compress&amp;h=305",
+            "category": "oculus"
+        },
+        {
+            "id": 13,
+            "title": "Rebuff Reality VR Power (Oculus)",
+            "price": 540,
+            "image": "https://m.media-amazon.com/images/I/51vjMiltH3L._AC_SS450_.jpg?auto=compress&amp;h=305",
+            "category": "oculus"
+        },
+        {
+            "id": 14,
+            "title": "Sony PlayStation VR",
+            "price": 520,
+            "image": "https://m.media-amazon.com/images/I/51OcaDD1-nL._SL1000_.jpg?auto=compress&amp;h=305",
+            "category": "ps"
+        },
+        {
+            "id": 15,
+            "title": "Meta Quest 2",
+            "price": 750,
+            "image": "https://m.media-amazon.com/images/I/61tE7IcuLmL._SL1500_.jpg?auto=compress&amp;h=305",
+            "category": "meta"
+        },
+        {
+            "id": 16,
+            "title": "Valve Index Enterprise Kit",
+            "price": 7990,
+            "image": "https://m.media-amazon.com/images/I/71tjph7xTVL._SX342_.jpg?auto=compress&amp;h=305",
+            "category": "valve"
+        },
+        {
+            "id": 17,
+            "title": "HTC Vive Pro 2",
+            "price": 650,
+            "image": "https://m.media-amazon.com/images/I/61c7Ow2tHoL._SX466_.jpg?auto=compress&amp;h=305",
+            "category": "htc"
+
+        },
+        {
+            "id": 18,
+            "title": "HP Reverb 2",
+            "price": 850,
+            "image": "https://m.media-amazon.com/images/I/71tjph7xTVL._SX342_.jpg?auto=compress&amp;h=305",
+            "category": "hp"
+
+        },
+        {
+            "id": 19,
+            "title": "Meta quest",
+            "price": 600,
+            "image": "https://i.ebayimg.com/images/g/8dUAAOSwnTBc2r-r/s-l600.jpg?auto=compress&amp;h=305",
+            "category": "meta"
+        },
+        {
+            "id": 20,
+            "title": "Meta Quest Enterprise Pack",
+            "price": 3500,
+            "image": "https://i.ebayimg.com/images/g/8dUAAOSwnTBc2r-r/s-l600.jpg?auto=compress&amp;h=3055",
+            "category": "meta"
+        },
+        {
+            "id": 21,
+            "title": "Oculus Standard Pack",
+            "price": 2300,
+            "image": "https://res-4.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1661469760/mcb3plajqjlcojmn6mq9.png?auto=compress&amp;h=305",
+            "category": "oculus"
+        },
+        {
+            "id": 22,
+            "title": "Sinteluo Hi5 VR Glove (HTC)",
+            "price": 320,
+            "image": "https://cornershop-immersion.com/206-large_default/hi5-vr-glove-business-edition.jpg?auto=compress&amp;h=305",
+            "category": "htc"
+        },
+        {
+            "id": 23,
+            "title": "CHENGGUAN 5K VR",
+            "price": 6500,
+            "image": "https://m.media-amazon.com/images/I/51NtZraHu+L._AC_SX466_.jpg?auto=compress&amp;h=305",
+            "category": "chengguan"
+        },
+        {
+            "id": 24,
+            "title": "HTC Vive Pro Focus Plus",
+            "price": 650,
+            "image": "https://business.vive.com/media/filer_public/enterprise/focus-plus-update-oct-2020/vive-focus-plus-vr-system.png?auto=compress&amp;h=305",
+            "category": "htc"
+        }
+    ]
+}

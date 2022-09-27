@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DevSoft - Tienda</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+</head>
+
+<body>
+    <!--navegación-->
+    <nav class="nav">
+        <div class="nav__center container">
+            <div class="nav__logo">
+                <h1>DEVSOFT <span>TIENDA</span></h1>
+            </div>
+            <ul class="nav__list">
+                <span>
+						<i class="bx bxs-dollar-circle"></i>
+					</span>
+                <div class="carrito__icon">
+                    <i class="bx bx-cart"></i>
+                    <span class="item__total">0</span>
+                </div>
+            </ul>
+        </div>
+    </nav>
+
+    <!--filtro-->
+    <section class="filter">
+        <div class="grid">
+            <div class="div">
+                <label for="buscar"><span><i class="bx bx-search"></i></span></label>
+                <input type="text" id="buscar" placeholder="Buscar productos...">
+            </div>
+            <div class="category">
+                <select id="category" onclick="categoryValue()">
+            <option value="">Marcas</option>
+            <option value="vrpack">VR Pack</option>
+            <option value="oculus">Oculus</option>
+            <option value="ps">PS Vr</option>
+            <option value="htc">HTC Vive</option>
+            <option value="valve">Valve Index</option>
+            <option value="hp">HP Reverb</option>
+            <option value="meta">Meta</option>
+            <option value="chengguan">ChengGuan</option>
+          </select>
+            </div>
+        </div>
+    </section>
+
+    <!--productos-->
+    <section class="productos">
+        <div class="productos__center">
+            <!-- <div class="producto">
+          <div class="image__container">
+            <img src="" alt="">
+          </div>
+          <div class="producto__footer">
+            <h1>Rejoles Originales</h1>
+            <div class="rating">
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bx-star"></i>
+              </span>
+            </div>
+            <div class="price">$102.00</div>
+          </div>
+          <div class="bottom">
+            <div class="btn__group">
+              <a href="#" class="btn addToCart">Añadir carrito</a>
+              <a href="producto-detalles.html" class="btn view">Vista</a>
+            </div>
+          </div>
+        </div> -->
+        </div>
+    </section>
+
+    <!--Carrito-->
+
+    <section class="carrito__overlay">
+        <div class="carrito">
+            <span class="close__carrito">
+          <i class="bx bx-x"></i>
+        </span>
+            <h1>Su Carrito</h1>
+
+            <div class="carrito__center">
+                <div class="carrito__item">
+                </div>
+
+                <div class="carrito__footer">
+                    <h3>Total: $USD <span class="carrito__total">0</span></h3>
+                    <button class="clear__carrito btn">remover carrito</button>
+                </div>
+            </div>
+    </section>
+
+    <script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>
+    <script src="./js/scripts.js"></script>
+</body>
+
+</html>
