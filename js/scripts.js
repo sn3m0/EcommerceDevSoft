@@ -9,6 +9,9 @@ const clearCarritoBtn = document.querySelector(".clear__carrito")
 const itemTotales = document.querySelector(".item__total")
 const detalles = document.getElementById('detalles')
 
+
+
+
 let carrito = [];
 let buttonDOM = [];
 
@@ -148,10 +151,10 @@ class UI {
     }
 
     addCarritoItem({ image, price, title, id }) {
-        const div = document.createElement("div")
-        div.classList.add("carrito__item")
+            const div = document.createElement("div")
+            div.classList.add("carrito__item")
 
-        div.innerHTML = `
+            div.innerHTML = `
 		<img src=${image} alt=${title}>
 		<div>
 			<h3>${title}</h3>
@@ -172,8 +175,9 @@ class UI {
 			</span>
 		</div>
 		`
-        carritoCenter.appendChild(div)
-    }
+            carritoCenter.appendChild(div)
+        }
+        // CORREGIR PARA LA 1.1 
     show() {
         carritoDOM.classList.add("show")
         overlay.classList.add("show")
@@ -255,7 +259,7 @@ class UI {
 }
 
 
-
+// storage definido, revisar después
 class Storage {
     static saveProduct(obj) {
         localStorage.setItem("productos", JSON.stringify(obj))

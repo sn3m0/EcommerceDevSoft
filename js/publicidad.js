@@ -1,0 +1,23 @@
+Swal.fire({
+    title: 'HTC Vive Pro Focus',
+    html: '<a href="#" class=btn>Comprar ahora</a>',
+    icon: 'undefined',
+    footer: "Anuncio",
+    width: '300px',
+    padding: '1rem',
+    background: '#fff',
+    grow: false,
+    backdrop: false,
+    timer: 20000,
+    timerProgressBar: true,
+    toast: false,
+    position: 'bottom-end',
+    allowOutsideClick: false,
+    allowEscapeClick: false,
+    stopKeydownPropagation: false,
+    showConfirmButton: false,
+    showCancelButton: false,
+    showCloseButton: true,
+    closeButtonAriaLabel: 'Cerrar este anuncio',
+
+})
